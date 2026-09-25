@@ -1,0 +1,61 @@
+[
+    {
+        "award": "1st Place Winner",
+        "organization": "Wharton Global High School Investment Competition",
+        "year": "2023"
+    },
+    {
+        "award": "Category Award Winner + Regeneron Award Scholarship",
+        "organization": "Fairfax Regional Science and Engineering Fair",
+        "year": "2023",
+        "details": [
+            "2nd Place in Category (BHMS)",
+            "Regeneron Biomedical Special Award Scholarship"
+        ]
+    },
+    {
+        "award": "2nd Place Winner",
+        "organization": "BioCode 2023 Hackathon",
+        "year": "2023"
+    },
+    {
+        "award": "Best Web Hack + Top 3 Finance Hack",
+        "organization": "HackTJ 10.0 Hackathon",
+        "year": "2023"
+    },
+    {
+        "award": "Research Finalist + Scholarship",
+        "organization": "National Junior Science and Humanities Symposium",
+        "year": "2022",
+        "details": [
+            "3rd Place at Greater Washington DC",
+            "National Level Research Finalist",
+            "Special Poster Board Award",
+            "Scholarship of $1000"
+        ]
+    },
+    {
+        "award": "State Champion + 5th in Nation",
+        "organization": "National Science Olympiad Tournament",
+        "year": "2019",
+        "details": [
+            "5th Place in Engineering (Battery Buggy)",
+            "11th Place in Electromagnetism (Circuit Lab)",
+            "18th Place in Thermodynamics (Thermo)",
+            "1st in Virginia for all three categories"
+        ]
+    },
+    {
+        "award": "3x AIME Qualifier",
+        "organization": "Mathematical Association of America",
+        "year": "2019-2022"
+    },
+    {
+        "award": "CyberPatriot Platinum",
+        "organization": "Air Force Association's CyberPatriot",
+        "year": "2019-2022",
+        "details": [
+            "Placed 144th out of 2000 teams nationally"
+        ]
+    }
+]

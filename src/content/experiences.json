@@ -1,0 +1,47 @@
+[
+    {
+        "date": "Sep 2026",
+        "description": "CSE undergraduate at [VIT](https://www.vit.edu/).",
+        "current": true
+    },
+    {
+        "date": "Aug 2026",
+        "description": "Won the [Mireye](https://mireye.com) hackathon on Y Combinator's summer build weekend.",
+        "current": false
+    },
+    {
+        "date": "May 2026 – Jul 2026",
+        "description": "Software Intern at [Fossee, IIT Bombay](https://fossee.in/).",
+        "current": false
+    },
+    {
+        "date": "2025",
+        "description": "Medaled at Hack With Mumbai 2.O.",
+        "current": false
+    },
+    {
+        "date": "2025",
+        "description": "Won PROTECH at SIT Pune for an accessibility tool.",
+        "current": false
+    },
+    {
+        "date": "2025",
+        "description": "Placed first at BV-PROTECH, BVDUCOE Pune.",
+        "current": false
+    },
+    {
+        "date": "Sep 2022 – May 2025",
+        "description": "Diploma in Computer Technology at [BVJNIOT](https://bvjniot.bharatividyapeeth.edu/).",
+        "current": false
+    },
+    {
+        "date": "May 2024 – Jul 2024",
+        "description": "Game Development Intern at Not Sus Games.",
+        "current": false
+    },
+    {
+        "date": "Jan 2021 – Present",
+        "description": "[Instagram](https://www.instagram.com/selfcarebyprem/) creator partnered with The Ordinary, Estée Lauder, and\nDr. Jart+.",
+        "current": false
+    }
+]

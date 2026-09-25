@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" fill="none">
+  <rect width="640" height="360" fill="white"/>
+  <rect x="150" y="70" width="340" height="210" rx="16" fill="#2D3436" stroke="#1A1A1A" stroke-width="5"/>
+  <rect x="170" y="90" width="300" height="170" rx="8" fill="#74B9FF" stroke="#1A1A1A" stroke-width="4"/>
+  <text x="320" y="165" text-anchor="middle" font-family="Courier New, monospace" font-size="28" fill="#1A1A1A">print("hi")</text>
+  <text x="320" y="205" text-anchor="middle" font-family="Courier New, monospace" font-size="28" fill="#E17055">SyntaxError</text>
+  <path d="M110 280 H530 L560 320 H80 Z" fill="#636E72" stroke="#1A1A1A" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="285" y="292" width="70" height="12" rx="6" fill="#B2BEC3" stroke="#1A1A1A" stroke-width="3"/>
+</svg>

@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-white text-neutral-900 font-sans antialiased min-h-screen;
+}
+
+a {
+  @apply transition-colors duration-200;
+}
+
+.blog-h1 {
+  @apply text-3xl font-semibold leading-tight;
+}
+
+.blog-h2 {
+  @apply text-2xl font-medium mt-8 mb-4;
+}
+
+.blog-text {
+  @apply text-base leading-relaxed text-neutral-700 mb-4;
+}
+
+.blog-a {
+  @apply underline decoration-neutral-400 decoration-2 underline-offset-4 hover:text-black;
+}
